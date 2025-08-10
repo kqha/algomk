@@ -18,3 +18,9 @@ Waralaba Mortal Kombat dan karakter-karakter di dalamnya adalah produk milik War
 * Single Player Mode: pengguna disimulasikan seakan-akan bermain melawan 66 karakter satu per-satu yang diurut secara acak (**default**, dapat dikonfigurasi untuk urutan power terlemah s/d terkuat dan sebaliknya)
 * Karakter yang digunakan oleh pemain harus diganti jika kalah
 * Karakter yang sudah pernah diganti tidak boleh dipakai lagi (**default**, dapat dikonfigurasi untuk membolehkan satu karakter yang pernah diganti untuk dipakai kembali)
+
+
+## Penggunaan
+1. Unggah file mortal_kombat.ipynb ke Google Colab
+2. Atur konfigurasi apakah ingin menggunakan dataset via file upload atau Google Drive (isFileUpload)
+3. Run-all
