@@ -1,8 +1,11 @@
 # algomk
 <h2>Perbandingan algoritma Greedy, Dynamic Programming dan Insertion Sort dalam studi kasus optimasi karakter Mortal Kombat</h2>
 
-Proyek ini adalah proyek mata kuliah Algoritma Optimasi. Kasus yang diangkat pada proyek ini adalah perbandingan tiga algoritma optimasi yaitu algoritma Greedy, Dynamic Programming (Memoization), dan Insertion Sort dalam membuat susunan karakter Mortal Kombat. 
+Proyek ini adalah proyek mata kuliah Algoritma Optimasi. Kasus yang diangkat pada proyek ini adalah perbandingan tiga algoritma optimasi yaitu algoritma Greedy, Dynamic Programming (Memoization), dan Insertion Sort dalam membuat susunan karakter Mortal Kombat.
 
+<p align="center">
+<img src="./images/presentasi/1.jpg" width="19%"> <img src="./images/presentasi/2.jpg" width="19%"> <img src="./images/presentasi/3.jpg" width="19%"> <img src="./images/presentasi/4.jpg" width="19%"> <img src="./images/presentasi/5.jpg" width="19%"> <img src="./images/presentasi/6.jpg" width="19%"> <img src="./images/presentasi/7.jpg" width="19%"> <img src="./images/presentasi/8.jpg" width="19%"> <img src="./images/presentasi/9.jpg" width="19%"> <img src="./images/presentasi/10.jpg" width="19%"> <img src="./images/presentasi/11.jpg" width="19%">
+</p>
 
 ## Disclaimer
 Waralaba Mortal Kombat dan karakter-karakter di dalamnya adalah produk milik Warner Bros. Games dan dikembangkan oleh NetherRealm Studios.
