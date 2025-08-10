@@ -1,0 +1,67 @@
+﻿ID;Nama;Power;Counter;Counter_ID
+1;Ashrah;72;Shinnok, Quan Chi;55, 46
+2;Baraka;68;Kung Lao, Sub-Zero (Kuai Liang);35, 62
+3;Blaze;95;Taven, Liu Kang (Fire God);65, 37
+4;Bo Rai Cho;65;Kano, Hsu Hao;28, 20
+5;Cassie Cage;73;Sonya Blade, Johnny Cage;60, 25
+6;Cetrion;98;Sindel, Shang Tsung, Quan Chi;57, 46
+7;Cyrax;67;Smoke, Sub-Zero (Kuai Liang);59, 62
+8;Dairou;55;Darrius;9
+9;Darrius;54;Dairou;8
+10;DVorah;71;Kotal Kahn, Mileena;33, 39
+11;Ermac;84;Kenshi, Nightwolf;29, 43
+12;Erron Black;62;Kabal, Cassie Cage;27, 5
+13;Ferra/Torr;66;Sonya Blade, Jacqui Briggs;60, 21
+14;Frost;68;Scorpion, Sub-Zero (Kuai Liang);51, 62
+15;Fujin;90;Shinnok, Raiden;55, 48
+16;Geras;89;Cetrion, Liu Kang (Fire God);6, 37
+17;Goro;85;Liu Kang (Fire God), Kotal Kahn;37, 33
+18;Havik;78;Hotaru, Taven;19, 65
+19;Hotaru;64;Havik;18
+20;Hsu Hao;45;Bo Rai Cho, Jax Briggs;4, 24
+21;Jacqui Briggs;66;Jax Briggs, Cassie Cage;24, 5
+22;Jade;70;Mileena, Reptile;39, 50
+23;Jarek;50;Sonya Blade, Jax Briggs;60, 24
+24;Jax Briggs;68;Kano, Hsu Hao;28, 20
+25;Johnny Cage;75;Erron Black, Kenshi;12, 29
+26;Kai;62;Kung Lao, Liu Kang (Fire God);35, 37
+27;Kabal;69;Sub-Zero (Kuai Liang), Scorpion;62, 51
+28;Kano;65;Sonya Blade, Jax Briggs;60, 24
+29;Kenshi;80;Ermac, Quan Chi;11, 46
+30;Kitana;74;Mileena, Sindel;39, 57
+31;Kira;52;Sonya Blade;60
+32;Kollector;60;Erron Black, Kano;12, 28
+33;Kotal Kahn;82;DVorah, Shao Kahn;10, 53
+34;Kung Jin;65;Reptile, Ferra/Torr;50, 13
+35;Kung Lao;76;Baraka, Goro;2, 17
+36;Li Mei;64;Nitara, Tanya;42, 64
+37;Liu Kang (Fire God);100;Shinnok, Kronika;55
+38;Meat;40;Everyone 😅;
+39;Mileena;72;Kitana, DVorah;30, 10
+40;Mokap;25;None;
+41;Motaro;83;Sheeva, Kano;54, 28
+42;Nitara;66;Li Mei, Ashrah;36, 1
+43;Nightwolf;75;Noob Saibot, Shinnok;44, 55
+44;Noob Saibot;87;Nightwolf, Raiden;43, 48
+45;Onaga;97;Blaze, Liu Kang (Fire God);3, 37
+46;Quan Chi;89;Fujin, Kenshi;15, 29
+47;Rain;78;Fujin, Raiden;15, 48
+48;Raiden;95;Shinnok, Liu Kang (Fire God);55, 37
+49;Reiko;74;Shinnok, Shao Kahn;55, 53
+50;Reptile;69;Sub-Zero (Kuai Liang), Jade;62, 22
+51;Scorpion;85;Sub-Zero (Kuai Liang);62
+52;Sektor;67;Cyrax, Smoke;7, 59
+53;Shao Kahn;92;Liu Kang (Fire God), Raiden;37, 48
+54;Sheeva;72;Motaro, Goro;41, 17
+55;Shinnok;96;Raiden, Fujin, Liu Kang (Fire God);48, 15, 37
+56;Shujinko;80;Taven, Blaze;65, 3
+57;Sindel;84;Kitana, Cetrion;30, 6
+58;Skarlet;68;Kenshi, Rain;29, 47
+59;Smoke;70;Cyrax, Sektor;7, 52
+60;Sonya Blade;68;Kano, Kira;28, 31
+61;Stryker;60;Erron Black, Kano;12, 28
+62;Sub-Zero (Kuai Liang);86;Scorpion, Kabal;51, 27
+63;Takeda Takahashi;77;Kenshi, Scorpion;29, 51
+64;Tanya;66;Li Mei, Kitana;36, 30
+65;Taven;88;Blaze, Havik;3, 18
+66;Tremor;73;Jax Briggs, Kano;24, 28
